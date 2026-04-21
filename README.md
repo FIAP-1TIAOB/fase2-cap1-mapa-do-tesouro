@@ -8,7 +8,7 @@
 
 # FarmTech Solutions - Sistema de Irrigação Inteligente (Fase 2)
 
-## IA-FIAP
+## Grupo 33
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/company/inova-fusca">Milton Akira Fukuhara</a>
@@ -21,8 +21,7 @@
 ### Tutor(a) 
 - <a href="https://www.linkedin.com/company/inova-fusca">Sabrina Otoni</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
-
+- <a href="https://www.linkedin.com/company/inova-fusca">André Godoi Chiovato</a>
 ## 📜 Descrição
 
 Este projeto de automação agrícola foi desenvolvido para a Startup **FarmTech Solutions**, visando otimizar o uso de recursos hídricos através do monitoramento em tempo real de sensores e atuadores acoplados a um microcontrolador ESP32.
