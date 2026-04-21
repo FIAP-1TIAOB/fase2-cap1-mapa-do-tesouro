@@ -15,7 +15,7 @@
 - <a href="https://www.linkedin.com/company/inova-fusca">Samyr de Souza Pereira</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">ANTONIO FILIPE DE SOUZA BRANCO</a> 
 - <a href="https://www.linkedin.com/company/inova-fusca">Albert Oliveira Ribeiro</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Vinicius Seiti Adati</a>
+- <a href="https://www.linkedin.com/in/vinicius-adati/">Vinicius Seiti Adati</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
